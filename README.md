@@ -36,6 +36,6 @@ My [path from measurement engineering to AI agent engineering](https://dynamic-d
 
 ## Role focus
 
-I am looking for an entry role as a Junior or Associate AI Agent Engineer, Agentic Systems Engineer, or Applied AI Engineer. I am also interested in research engineering and applied data work where sensor data, verification, and AI-enabled engineering meet.
+I am looking for an early-career role as an Agentic AI Engineer, Applied AI or Machine Learning Engineer, or Data Engineer, in applied research or industry. My background in measurement engineering is most useful where machine learning meets sensor and industrial data, such as predictive maintenance or industrial AI.
 
 [Portfolio](https://dynamic-dome.com/) · [Profile and CV](https://dynamic-dome.com/profil/) · [LinkedIn](https://www.linkedin.com/in/dominic-meiser-204279150/)
