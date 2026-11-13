@@ -1,38 +1,23 @@
 # Dominic Meiser
 
-**M.Sc. Mechatronics → measurement systems, sensor data, and applied research → observable, human-governed AI agent systems.**
+I studied mechatronics and spent my Master's thesis on sensor data: many measured features, few independent samples, and a test set that stayed locked until the end. Since March 2026 I build AI agent systems in Python with the same habit. Every step should leave a trace, every result should be checked, and the limits should be written down.
 
-I transfer the discipline of measurement — traceability, validation, and explicit limits — into agent-assisted Python and FastAPI workflows. My work focuses on explicit state, persistent knowledge, traceable tool use, verification, and human approval.
+## Selected projects
 
-Public repositories and case studies show architecture, tests, limits, and failure paths. Operational cores and confidential data remain private.
+| Project | What it is |
+|---|---|
+| [Book Séance](https://github.com/dynamic-dome/book-seance) | A RAG app over eight public-domain books. Every answer comes from retrieved passages and shows the passage it stands on. |
+| [Flower Moods](https://github.com/dynamic-dome/flower-moods) | An image classifier for roses, sunflowers and tulips with 100 training photos per flower. Below 90 % confidence a person checks the photo. |
+| [Agentic OS](https://github.com/dynamic-dome/agentic-os-plugin) | File-based project memory for Claude Code, so the next session knows what was done, decided and left open. I use it daily. |
+| [prompt-prelude](https://github.com/dynamic-dome/prompt-prelude) | A hook that adds matching skills and earlier sessions to a prompt, and a replay benchmark with a blind judge that measures whether this helps. |
+| [Dynamic Workshop](https://github.com/dynamic-dome/dynamic-workshop) | A German curriculum for learning Claude Code, with tested templates, exercises and a practice playground. |
+| [wiki-graph-showcase](https://github.com/dynamic-dome/wiki-graph-showcase) | A 3D knowledge graph built from my own notes, with a check that scans every build for private content before it goes online. |
 
-## Selected work
+Book Séance and Flower Moods started as course projects in a pair and a team of three; the repositories hold my part.
 
-| Project | What it demonstrates | Status | Limits |
-|---|---|---|---|
-| [DCO Reference](https://github.com/dynamic-dome/dco-reference) | Queue, worker, verification, and an explicit human approval gate | Reference implementation | Synthetic examples; not an export of the private operational system |
-| [Orchestrated Bridge](https://github.com/dynamic-dome/orchestrated-bridge) | Separated roles, persistent state, trace files, validation, workspace-scoped builds, and an explicit acceptance boundary | Working public reference | Deterministic public demo; operational deployments remain private |
-| [Agent Skill Index](https://github.com/dynamic-dome/agent-skill-index) | Capability discovery, governance metadata, and privacy-aware indexing | Public tool | Demonstrates the indexing layer, not a complete agent platform |
-| [Dynamic Workshop](https://github.com/dynamic-dome/dynamic-workshop) | Structured modules, demos, exercises, mentor resources, and a testable playground | Curriculum | Educational material; not a production service |
+## Foundation
 
-## Methodological foundation
-
-My [path from measurement engineering to AI agent engineering](https://dynamic-dome.com/weg/) explains how work with sensor data shaped the way I build software systems. The [Master's thesis case study](https://dynamic-dome.com/profil/thesis/) shows feature selection, leakage control, sample-level validation, and held-out testing. The reported 98.8% refers only to test balanced accuracy for material discrimination.
-
-## What I work on
-
-- Agent-assisted Python and FastAPI workflows
-- Explicit state, memory, and retrieval
-- Traceable tool calls, tests, and verification
-- Human approval and operational boundaries
-- Sensor-data analysis and evaluation methodology
-
-## Selected case studies
-
-- [Controlled agent workflows](https://dynamic-dome.com/systeme/dco/)
-- [Agent memory and retrieval](https://dynamic-dome.com/systeme/agent-memory/)
-- [Traceability and observability](https://dynamic-dome.com/systeme/observatory/)
-- [Operating OpenClaw with explicit governance boundaries](https://dynamic-dome.com/systeme/openclaw/)
+The [Master's thesis case study](https://dynamic-dome.com/profil/thesis/) shows feature selection, leakage control and a held-out test set. The reported 98.8 % is the test balanced accuracy for material discrimination only. How I got from measurement engineering to agent systems: [dynamic-dome.com/weg](https://dynamic-dome.com/weg/).
 
 ## Role focus
 
