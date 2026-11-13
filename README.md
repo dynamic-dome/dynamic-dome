@@ -8,7 +8,7 @@ I studied mechatronics and spent my Master's thesis on sensor data: many measure
 |---|---|
 | [Book Séance](https://github.com/dynamic-dome/book-seance) | A RAG app over eight public-domain books. Every answer comes from retrieved passages and shows the passage it stands on. |
 | [Flower Moods](https://github.com/dynamic-dome/flower-moods) | An image classifier for roses, sunflowers and tulips with 100 training photos per flower. Below 90 % confidence a person checks the photo. |
-| [Agentic OS](https://github.com/dynamic-dome/agentic-os-plugin) | File-based project memory for Claude Code, so the next session knows what was done, decided and left open. I use it daily. |
+| [Agentic OS](https://github.com/dynamic-dome/agentic-os-plugin) | A memory system for coding agents: knowledge, patterns and decisions per project, kept in files across sessions, so the next session knows what was done, decided and left open. I use it daily. |
 | [prompt-prelude](https://github.com/dynamic-dome/prompt-prelude) | A hook that adds matching skills and earlier sessions to a prompt, and a replay benchmark with a blind judge that measures whether this helps. |
 | [Dynamic Workshop](https://github.com/dynamic-dome/dynamic-workshop) | A German curriculum for learning Claude Code, with tested templates, exercises and a practice playground. |
 | [wiki-graph-showcase](https://github.com/dynamic-dome/wiki-graph-showcase) | A 3D knowledge graph built from my own notes, with a check that scans every build for private content before it goes online. |
