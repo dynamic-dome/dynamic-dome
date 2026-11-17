@@ -10,7 +10,8 @@ I studied mechatronics and spent my Master's thesis on sensor data: many measure
 | [Flower Moods](https://github.com/dynamic-dome/flower-moods) | An image classifier for roses, sunflowers and tulips with 100 training photos per flower. Below 90 % confidence a person checks the photo. |
 | [Agentic OS](https://github.com/dynamic-dome/agentic-os-plugin) | A memory system for coding agents: knowledge, patterns and decisions per project, kept in files across sessions, so the next session knows what was done, decided and left open. I use it daily. |
 | [prompt-prelude](https://github.com/dynamic-dome/prompt-prelude) | A hook that adds matching skills and earlier sessions to a prompt, and a replay benchmark with a blind judge that measures whether this helps. |
-| [Dynamic Workshop](https://github.com/dynamic-dome/dynamic-workshop) | A German curriculum for learning Claude Code, with tested templates, exercises and a practice playground. |
+| [langgraph-dev-pipeline](https://github.com/dynamic-dome/langgraph-dev-pipeline) | One scoped coding task developed by AI agents as a LangGraph graph: spec, shielded acceptance tests, reviewers from two model families and human checkpoints before the merge. |
+| [Dynamic Workshop](https://github.com/dynamic-dome/dynamic-workshop) | A German Claude Code library with 71 chapters, tested templates, exercises and a practice playground. |
 | [wiki-graph-showcase](https://github.com/dynamic-dome/wiki-graph-showcase) | A 3D knowledge graph built from my own notes, with a check that scans every build for private content before it goes online. |
 
 Book Séance and Flower Moods started as course projects in a pair and a team of three; the repositories hold my part.
